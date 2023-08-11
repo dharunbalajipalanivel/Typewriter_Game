@@ -48,4 +48,4 @@ Contributions to enhance the applet's features, improve usability, or fix issues
 
 - Create a pull request to merge your changes into this repository.
 ## License
-This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://chat.openai.com/c/LICENSE.md). You are free to use, share, and distribute the applet for non-commercial purposes, as long as you provide appropriate attribution. You may not modify or build upon the applet for redistribution.
+This project is licensed under the [Apache License 2.0](https://chat.openai.com/c/LICENSE.md). You may obtain a copy of the License in the `LICENSE` file or at **http://www.apache.org/licenses/LICENSE-2.0**.
